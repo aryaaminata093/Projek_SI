@@ -26,7 +26,7 @@ Fungsi ini dibuat untuk mempermudah pengajuan izin tempat wisata oleh para penge
 
 Fungsi ini juga dibuat untuk para pengelola wisata yang memiliki tempat wisata baru atau yang menginginkan tempat wisatanya dapat dimuat di website Nuansaloka. Untuk menggunakan fungsi ini, tempat wisata yang akan dipromosikan harus sudah memiliki izin tempat wisata. Saat melakukan pengajuan promosi pengelola wisata dapat mengisi formulir di website dan mengunggah berkas tambahan untuk promosi. Kemudian admin akan melakukan verifikasi, jika pengajuan promosi diterima maka promosi tempat wisata tersebut akan dimuat di website. Pengelola wisata juga dapat memantau status dari pengajuan promosi melalui website.
 
-## Screenshoot Sistem
+## Screenshoot Implementasi Tampilan Sistem
  - Beranda
  ![beranda1](https://github.com/aryaaminata093/Projek_SI/blob/main/Image/beranda_1.png)
  ![beranda2](https://github.com/aryaaminata093/Projek_SI/blob/main/Image/beranda_2.png)
