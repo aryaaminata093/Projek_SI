@@ -1,0 +1,139 @@
+body {
+    background: url('../assets/img/bglogin.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: 'Roboto', sans-serif;
+}
+
+.judul{
+    margin-top: 10px;
+    text-align: center;
+    font-size: 33px;
+    letter-spacing: 2px;
+    margin-top: 15px;
+    color: #ECF0F5;
+    padding-bottom: 20px;
+}
+
+.login-box {
+    margin-top: 30px;
+    height: auto;
+    border-radius: 20px;
+    background: rgba(0, 0, 0, 0.50);
+    text-align: center;
+    padding-bottom: 25px;
+    margin-bottom: 25px;
+}
+
+.login-title {
+    margin-top: 15px;
+    text-align: center;
+    font-size: 20px;
+    letter-spacing: 2px;
+    color: #ECF0F5;
+}
+
+.login-reg {
+    margin-top: 15px;
+    text-align: center;
+    font-size: 13px;
+    letter-spacing: 2px;
+    color: #ECF0F5;
+}
+
+.login-form {
+    margin-top: 25px;
+    text-align: left;
+}
+
+input[type=text] {
+    background-color: rgba(0, 0, 0, 0);;
+    border: none;
+    border-bottom: 2px solid #ffffff;
+    border-top: 0px;
+    border-radius: 0px;
+    font-weight: bold;
+    outline: 0;
+    margin-bottom: 20px;
+    padding-left: 0px;
+    color: #ffffff;
+}
+
+input[type=password] {
+    background-color: rgba(0, 0, 0, 0);;
+    border: none;
+    border-bottom: 2px solid #ffffff;
+    border-top: 0px;
+    border-radius: 0px;
+    font-weight: bold;
+    outline: 0;
+    padding-left: 0px;
+    margin-bottom: 20px;
+    color: #ffffff;
+}
+
+.form-group {
+    margin-bottom: 25px;
+    outline: 0px;
+}
+
+.form-control:focus {
+    border-color: inherit;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    border-bottom: 2px solid #ffffff;
+    outline: 0;
+    background-color:rgba(0, 0, 0, 0);;
+    color: #ffffff;
+}
+
+input:focus {
+    outline: none;
+    box-shadow: 0 0 0;
+}
+
+label {
+    margin-bottom: 0px;
+}
+
+.form-control-label {
+    font-size: 10px;
+    color: #ffffff;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+.btn-outline-primary {
+    color: #ffffff;
+    border-radius: 10px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    text-align:center;
+}
+
+.btn-outline-primary:hover {
+    background-color: #3577E8;
+    right: 0px;
+}
+
+.login-btm {
+    float: left;
+    padding-bottom: 0px;
+}
+
+.login-button {
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.login-text {
+    text-align: center;
+    padding-left: 0px;
+    color: #A2A4A4;
+}
+
+.loginbttm {
+    padding: 0px;
+}
